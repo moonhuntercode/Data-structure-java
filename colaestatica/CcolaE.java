@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * CcolaE
+ * CcolaE de victor 
  */
 public class CcolaE {
     int MAX =10;
